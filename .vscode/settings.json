@@ -1,0 +1,32 @@
+{
+    "cSpell.words": [
+        "agentvisualization",
+        "anyio",
+        "certifi",
+        "cloneagent",
+        "colorama",
+        "debuglogging",
+        "distro",
+        "dotenv",
+        "emscripten",
+        "finaloutput",
+        "graphviz",
+        "guardrials",
+        "httpcore",
+        "httpx",
+        "idna",
+        "jiter",
+        "jsonschema",
+        "malik",
+        "modelcontextprotocol",
+        "pydantic",
+        "pywin",
+        "rpds",
+        "sdist",
+        "sniffio",
+        "starlette",
+        "tqdm",
+        "urllib",
+        "uvicorn"
+    ]
+}
