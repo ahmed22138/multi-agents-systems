@@ -28,7 +28,7 @@ base_agent =  Agent(
     model_settings=ModelSettings(temperature=0.1)
 )
 
-friendly_agent = Agent(
+friendly_agent = base_agent.clone(
     name="FriendlyAssistant",
     instructions="You are a friendly and warm Assistant.",
     model_settings=ModelSettings(temperate=0.9)
