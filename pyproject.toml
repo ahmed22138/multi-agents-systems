@@ -18,6 +18,7 @@ come = "model.handoffs:start"
 out = "model.cloneagent:start"
 in = "model.debuglogging:start"
 hell = "model.guardrials:start"
+told  = "model.outputtype:start"
 
 [build-system]
 requires = ["uv_build>=0.8.8,<0.9.0"]
